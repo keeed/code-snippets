@@ -1,5 +1,5 @@
 | **Description:** | Checks if the given control is currently in focus. |
-| :--------------- | ---------------------------------------- |
+| :--------------- | :--------------------------------------- |
 | **Source:**      | https://social.msdn.microsoft.com/Forums/vstudio/en-US/e0512848-076b-464b-856c-70fcbf60489c/determine-if-datagrid-is-focused?forum=wpf |
 
 ```c#
