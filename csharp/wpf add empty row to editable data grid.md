@@ -1,4 +1,4 @@
-| Description: | Adds an empty row grid to an editable data grid in WPF. |
+| Description: | Adds an empty row to an editable data grid in WPF. See method summary for full info. |
 | :----------- | :--------------------------------------- |
 | **Source:**  |                                          |
 
